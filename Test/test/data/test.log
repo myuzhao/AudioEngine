@@ -1,0 +1,4 @@
+I 21-12-28 22:49:25.760376 21680 test_main.c:96: input file name:./data/test.wav
+I 21-12-28 22:49:25.760376 21680 test_main.c:97: output file name:./data/test_out.wav
+I 21-12-28 22:49:25.760376 21680 test_main.c:98: config file name:./data/test.ini
+I 21-12-28 22:49:25.760376 21680 test_main.c:99: log file name:./data/test.log
