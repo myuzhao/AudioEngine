@@ -1,0 +1,4 @@
+I 22-02-03 14:58:51.387611 203 test_main.c:95: input file name:../Data/test.wav
+I 22-02-03 14:58:51.461723 203 test_main.c:96: output file name:../Data/test_out.wav
+I 22-02-03 14:58:51.461742 203 test_main.c:97: config file name:../Data/test.ini
+I 22-02-03 14:58:51.461751 203 test_main.c:98: log file name:../Data/test.log

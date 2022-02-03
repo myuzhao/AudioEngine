@@ -89,7 +89,6 @@ void main(int argc, char* argv[])
 		argc = sizeof(argk) / sizeof(argk[0]);
 		argv = argk;
 	}
-
 	parse_command_line(argc, argv);
 	logger_initFileLogger(log_filename, 1024 * 1024, 5);
 	logger_setLevel(LogLevel_DEBUG);
